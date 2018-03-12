@@ -1,6 +1,6 @@
 <html>
 <body>
-<h2>Catumeow Privacy Policy</h2>
+<h2>Privacy Policy</h2>
 <p>We consider privacy to be of the utmost importance, which is why we would never invade it. This Privacy Policy covers the manner in which we collects and uses any information you (Users) provide in connection with any  game or Application.</p>
 <p>This page is used to inform users regarding our policies with the collection, use, and
     disclosure of Personal Information if anyone decided to use our Service.</p>
