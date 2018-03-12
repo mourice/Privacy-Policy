@@ -1,9 +1,9 @@
 
-$header-bg-color-new: #AF1C7C;  
-$header-bg-color-secondary-new: #411FA0;  
 
 @import "{{ site.theme }}";
 
+$header-bg-color-new: #AF1C7C;  
+$header-bg-color-secondary-new: #411FA0;  
 
 .page-header {
   color: $header-heading-color;
