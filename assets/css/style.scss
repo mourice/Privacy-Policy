@@ -1,15 +1,12 @@
 
 
-@import "{{ site.theme }}";
-
-$header-bg-color-new: #AF1C7C;  
-$header-bg-color-secondary-new: #411FA0;  
+@import "{{ site.theme }}";  
 
 .page-header-new {
-  color: $header-heading-color;
+  color: #fff;
   text-align: center;
-  background-color: $header-bg-color-new;
-  background-image: linear-gradient(120deg, $header-bg-color-secondary-new, $header-bg-color-new);
+  background-color: #AF1C7C;
+  background-image: linear-gradient(120deg, #411FA0, #AF1C7C);
 
   @include large {
     padding: 5rem 6rem;
