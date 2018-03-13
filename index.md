@@ -4,10 +4,7 @@
 <p>We consider privacy to be of the utmost importance, which is why we would never invade it. This Privacy Policy covers the manner in which we collects and uses any information you (Users) provide in connection with any  game or Application.</p>
 <p>This page is used to inform users regarding our policies with the collection, use, and
     disclosure of Personal Information if anyone decided to use our Service.</p>
-<p>If you choose to use our Service, then you agree to the collection and use of information in
-    relation with this policy. The Personal Information that we collect are used for providing and
-    improving the Service. We will not use or share your information with anyone except as described
-    in this Privacy Policy.</p>
+<p>Information sharing only takes place with the user action and not otherwise. Screenshot taken for sharing after the game play is just a texture created using the library Api and not the actual screen capture through camera. sceenshot texture is stored in the memory only for the duration of your current game session. Every time the app is closed, the data is deleted </p>
 
 <p><strong>Information Collection and Use</strong></p>
 <p>The app does use third party services that may collect information used to identify you.</p> 
